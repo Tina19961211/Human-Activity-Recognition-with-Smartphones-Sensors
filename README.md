@@ -19,11 +19,3 @@ This project implements a full data-analysis workflow for **Human Activity Recog
 - **Environment:** Jupyter Notebook (`human-activity-recognition-with-smartphones-sensor.ipynb`)  
 - **Libraries:** Pandas, NumPy, SciPy, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn
 
----
-
-## 🚀 Usage Instructions
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/Tina19961211/Human-Activity-Recognition-with-Smartphones-Sensors.git
