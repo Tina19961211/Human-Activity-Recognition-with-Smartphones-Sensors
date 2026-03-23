@@ -1,6 +1,6 @@
 # Human Activity Recognition with Smartphone Sensors
 
-This project implements a full data-analysis workflow for **Human Activity Recognition (HAR)** using accelerometer and gyroscope sensor data collected from smartphones. The goal is to evaluate both deep-learning and classical machine-learning methods to distinguish between various physical activities — showcasing how everyday devices can be used for **wearable technology, rehabilitation, prosthetic feedback, and biomechanics applications**.
+This project implements a full data-analysis workflow for **Human Activity Recognition (HAR)** using accelerometer and gyroscope sensor data collected from smartphones. The goal is to evaluate both deep-learning and classical machine-learning methods to distinguish between various physical activities, showcasing how everyday devices can be used for **wearable technology, rehabilitation, prosthetic feedback, and biomechanics applications**. this kind of analysis is specially helpful for **Prosthetic control systems**.
 
 ---
 
